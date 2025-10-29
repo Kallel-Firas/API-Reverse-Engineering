@@ -60,8 +60,10 @@ This write requires root access and remounting /system read/write (the root prov
 12. Restarted the phone and re-started packet capture in PCAPdroid.
 
 TLS decryption now succeeded — traffic decrypted.
+![image 1](image1.png)
 
 13. Analyzed the decrypted traffic and discovered API details including an API key that had not been changed for about a month.
+![image 2](image%202.png)
 
 # 5. Problems encountered & solutions
 
